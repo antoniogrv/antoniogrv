@@ -1,3 +1,8 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v1enna&layout=compact&theme=cobalt" />
-</p>
+![Amazon Web Services](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=flat-square&logoWidth=25&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=flat-square&logoWidth=25&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=flat-square&logoWidth=25&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&style=flat-square&logoWidth=25&logoColor=white&logoWidth=25&logoColor=white)
+![Serverless Framework](https://img.shields.io/badge/-Serverless_Framework-000?&logo=Serverless&style=flat-square&logoWidth=25&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=flat-square&logoWidth=25&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square&logoWidth=25&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&style=flat-square&logoWidth=25&logoColor=white)
