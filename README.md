@@ -1,8 +1,3 @@
-![Amazon Web Services](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&style=flat-square&logoWidth=25&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker&style=flat-square&logoWidth=25&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes&style=flat-square&logoWidth=25&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform&style=flat-square&logoWidth=25&logoColor=white&logoWidth=25&logoColor=white)
-![Serverless Framework](https://img.shields.io/badge/-Serverless_Framework-000?&logo=Serverless&style=flat-square&logoWidth=25&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis&style=flat-square&logoWidth=25&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square&logoWidth=25&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel&style=flat-square&logoWidth=25&logoColor=white)
+<p align="center">
+  <img src="https://github.com/antoniogrv/antoniogrv/assets/77232878/1e34f9e5-68d3-4489-81ab-365d0c268e0d" />
+</p>
