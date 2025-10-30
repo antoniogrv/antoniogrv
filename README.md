@@ -1,7 +1,7 @@
 ### Hello!
 
-I'm Antonio, and I'm currently employed as a Core Site Reliability Engineer II at [Prima](https://www.helloprima.com/). Previously, I worked as a Cloud Infrastructure Engineer at [Leonardo](https://www.leonardo.com/en/).
+I'm Antonio, currently working as a Core Site Reliability Engineer II at [Prima](https://www.helloprima.com/). Previously, I worked as a Cloud Infrastructure Engineer at [Leonardo](https://www.leonardo.com/en/).
 
-Mainly, I work with Kubernetes & all-things cloud-native, especially on AWS. Deeply engaged in in networking, observability and cybersecurity. Not much of a SWE, but very interested in Rust.
+I spend most of my time building and operating reliable cloud-native infrastructures both on-prem and on AWS, with a strong focus on Kubernetes, networking, observability and cybersecurity. I also hold a Master's Degree in Cybersecurity, and while my role today is less software-oriented, I’m still quite passionate about Rust, Golang and Python.
 
 Feel free to reach out if you want to connect!
